@@ -4,7 +4,7 @@
  # 001 DevMedia Build an app about the city of Paraty
  *baby level*
 
-## Etapas
+## Steps
 - Expo project created in PowerShell: *npx create-expo-app appParaty*
 - Folders created with PowerShell: *mkdir componentes*, etc.
 - JS files created with PowerShell: *New-Item -ItemType File -Path .\TelaRestaurantes\index.js*, etc.
