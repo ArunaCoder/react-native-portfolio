@@ -14,3 +14,13 @@
 - Folder structure created with index.js in each one.
 - Routes established in App.js.
 - Content of the initial screen included in index.js.
+- Stylized initial screen.
+- Structure of the restaurant screen and then styling.
+- Structure and style of the restaurant screen copied to tours and lodging.
+- Changed different content.
+- Finished. Fatality.
+- Screens:
+![Initial page](/assets/readme_img/inicial.jpeg)
+![Restaurants](/assets/readme_img/retaurants.jpeg)
+![Tours](/assets/readme_img/tours.jpeg)
+![Lodging](/assets/readme_img/lodging.jpeg)
