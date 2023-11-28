@@ -20,6 +20,7 @@
 - Changed different content.
 - Finished. Fatality.
 - Screens:
+<img src="/assets/readme_img/initial.jpeg" width="300" />
 ![Initial page](/assets/readme_img/initial.jpeg)
 ![Restaurants](/assets/readme_img/restaurants.jpeg)
 ![Tours](/assets/readme_img/tours.jpeg)
