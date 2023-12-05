@@ -1,8 +1,17 @@
 # react-native-portfolio
  Beginning of my project portfolio with React Native.
 
- # 001 DevMedia - Build an app about the city of Paraty
- *baby level*
+# 002 DevMedia - Build an app about Xbox
+*baby level*
+## Steps
+- Same steps of the project 001 below.
+- Differential: ScrollView, ImageBackground and Pressable
+- Screens:
+<iframe width="300" src="readme_img/xbox.mp4" frameborder="0" allowfullscreen></iframe>
+
+
+# 001 DevMedia - Build an app about the city of Paraty
+*baby level*
 
 ## Steps
 - Expo project created in PowerShell: *npx create-expo-app appParaty*
@@ -20,7 +29,7 @@
 - Changed different content.
 - Finished. Fatality.
 - Screens:
-<img src="/assets/readme_img/initial.jpeg" width="300" />
-<img src="/assets/readme_img/restaurants.jpeg" width="300" />
-<img src="/assets/readme_img/tours.jpeg" width="300" />
-<img src="/assets/readme_img/lodging.jpeg" width="300" />
+<img src="/readme_img/initial.jpeg" width="300" />
+<img src="/readme_img/restaurants.jpeg" width="300" />
+<img src="/readme_img/tours.jpeg" width="300" />
+<img src="/readme_img/lodging.jpeg" width="300" />
