@@ -7,7 +7,8 @@
 - Same steps of the project 001 below.
 - Differential: ScrollView, ImageBackground and Pressable
 - Screens:
-<iframe width="300" src="readme_img/xbox.mp4" frameborder="0" allowfullscreen></iframe>
+
+https://github.com/ArunaCoder/react-native-portfolio/assets/97682793/845b1e2d-fbb4-4c5b-b712-bebb8f31b197
 
 
 # 001 DevMedia - Build an app about the city of Paraty
