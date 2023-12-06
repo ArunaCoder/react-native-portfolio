@@ -1,6 +1,14 @@
 # react-native-portfolio
  Beginning of my project portfolio with React Native.
 
+# 003 DevMedia - Using Icons
+*still baby level*
+- Examples copied from class:
+-- importing and usin icons
+<img src="/readme_img/icons.jpeg" width="300" />
+-- importing and using icons with tab navigation
+(add video in github)
+
 # 002 DevMedia - Build an app about Xbox
 *baby level*
 ## Steps
