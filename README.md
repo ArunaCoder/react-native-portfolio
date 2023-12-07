@@ -7,6 +7,7 @@
 -- importing and usin icons
 <img src="/readme_img/icons.jpeg" width="300" />
 -- importing and using icons with tab navigation
+  
 https://github.com/ArunaCoder/react-native-portfolio/assets/97682793/cd07cfa3-2b70-422d-9a8f-0af8370df7c7
 
 
