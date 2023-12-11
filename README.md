@@ -1,13 +1,18 @@
 # react-native-portfolio
  Beginning of my project portfolio with React Native.
 
+# 004 DevMedia - App about wine. Bottom-tabs. Styling header and tabs.
+*still baby level*
+- Video below
+
+
 # 003 DevMedia - Using Icons
 *still baby level*
 - Examples copied from class:
--- importing and usin icons
+-- importing and using icons
 <img src="/readme_img/icons.jpeg" width="300" />
 -- importing and using icons with tab navigation
-  
+
 https://github.com/ArunaCoder/react-native-portfolio/assets/97682793/cd07cfa3-2b70-422d-9a8f-0af8370df7c7
 
 
