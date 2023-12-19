@@ -54,7 +54,7 @@ https://github.com/ArunaCoder/react-native-portfolio/assets/97682793/845b1e2d-fb
 - Changed different content.
 - Finished. Fatality.
 - Screens:
-<img src="/readme_img/initial.jpeg" width="300" />
-<img src="/readme_img/restaurants.jpeg" width="300" />
-<img src="/readme_img/tours.jpeg" width="300" />
-<img src="/readme_img/lodging.jpeg" width="300" />
+<img src="/readme_img/001 initial.jpeg" width="300" />
+<img src="/readme_img/001 restaurants.jpeg" width="300" />
+<img src="/readme_img/001 tours.jpeg" width="300" />
+<img src="/readme_img/001 lodging.jpeg" width="300" />
