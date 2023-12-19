@@ -6,6 +6,10 @@
 - Video below
 
 
+https://github.com/ArunaCoder/react-native-portfolio/assets/97682793/8cea525b-065b-4a67-9539-9350eb964f33
+
+
+
 
 # 004.1 DevMedia - App about wine. Bottom-tabs. Styling header and tabs.
 *still baby level*
