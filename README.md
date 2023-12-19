@@ -1,7 +1,13 @@
 # react-native-portfolio
  Beginning of my project portfolio with React Native.
 
-# 004 DevMedia - App about wine. Bottom-tabs. Styling header and tabs.
+# 004.2 DevMedia - App about Ayrton Senna. Bottom-tabs. Styling header and tabs. ScrollView, ImageBackgound
+*still baby level*
+- Video below
+
+
+
+# 004.1 DevMedia - App about wine. Bottom-tabs. Styling header and tabs.
 *still baby level*
 - Video below
 
